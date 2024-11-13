@@ -100,11 +100,10 @@ def register_warehouse():
 ## Future Enhancements
 
 The WMS project can be enhanced with additional features:
-
-    -Barcode Scanning: Integrate barcode scanning for faster inventory management.
-    -Real-time Reporting and Analytics: Generate real-time insights into warehouse performance.
-    -Mobile Application Support: Develop a companion mobile app for on-the-go management.
-    -Predictive Inventory Management: Use analytics to forecast demand and optimize inventory replenishment.
+    -**Barcode Scanning**: Integrate barcode scanning for faster inventory management.
+    -**Real-time Reporting and Analytics**: Generate real-time insights into warehouse performance.
+    -**Mobile Application Support**: Develop a companion mobile app for on-the-go management.
+    -**Predictive Inventory Management**: Use analytics to forecast demand and optimize inventory replenishment.
 
 > **Acknowledgments**  
 > - [Python Documentation](https://docs.python.org/3/library/)
