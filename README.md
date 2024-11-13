@@ -2,6 +2,8 @@
     The Warehouse Management System (WMS) is a software application designed to streamline and optimize warehouse operations, including inventory management, order processing, and reporting. The system is built using Python and SQLite and supports key functionalities like registering warehouses, managing suppliers, processing orders, and generating insightful reports.
 
 ## Folder Structure:
+
+``` plaintext
 my_project/
 ├── build/                                        # Contains compiled code and other build artifacts
 │   ├── final_source_code.py                      # Final Python code
@@ -21,6 +23,7 @@ my_project/
 │   ├── Project_plan.txt                          # Project planning document
 │   └── Project_report.pdf                        # Detailed project report
 └── README.md                                     # Project overview and setup instructions
+```
 
 ## Table of Contents
 - [Features](#features)
