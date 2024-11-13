@@ -1,0 +1,20 @@
+# .gitignore
+
+# Ignore build folder contents (optional, depending on the project)
+build/
+
+# Ignore database files if you don’t want to version them
+*.db
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore temporary files from IDEs
+.vscode/
+*.log
+*.tmp
+
+# Ignore Excel and other large files (optional)
+*.xlsx
+*.pdf
